@@ -1,1 +1,0 @@
-vs cde : prettier and live server install
